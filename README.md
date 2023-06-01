@@ -2,7 +2,8 @@ framer motion
 https://www.framer.com/motion/
 npm install framer-motion
 
----
+- use : <motion.div></motion.div> motion.태그명
+- styled css : const Box = styled(motion.div)``
 
 # Getting Started with Create React App
 
